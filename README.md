@@ -22,3 +22,6 @@ ultrasonic sensor pointing towards the back
 buzzer
 laser module
 a fewrgb LEDs
+
+
+First .ino is to test the sensors on the Arduino nano and to test the I2C bus communication
