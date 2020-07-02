@@ -1,4 +1,4 @@
-# Arduino-Machine-Learning-Robot
+# Arduino-Multi_Sensor-Robot
 The goal is a machine learning robot using multiple arduinos and sensors for feedback.
 
 
